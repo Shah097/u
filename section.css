@@ -1,0 +1,25 @@
+* 
+{ margin: 0px; 
+padding: 0px; 
+}
+ .one
+						{ 
+							height: 500px; 
+							width: 100%; 
+							background-color: black; 
+							padding-top: 50px; 
+							padding-bottom: 50px; 
+						}
+ .one1
+				{
+					 height: 300px; 
+					width: 20%; 
+					background-color: grey;
+					 margin-left: 4%; 
+					display: inline-block; 
+					margin-left: 4%;
+					box-sizing:border-box;
+					
+					
+					}
+					
